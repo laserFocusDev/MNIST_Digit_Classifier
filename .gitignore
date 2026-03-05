@@ -1,0 +1,4 @@
+data_mnist/
+__pycache__/
+*.pyc
+.env
