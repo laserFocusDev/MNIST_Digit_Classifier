@@ -82,3 +82,4 @@ with torch.no_grad():
     _, predicted = torch.max(outputs, 1)
     accuracy = (predicted == y_test).float().mean()
 print("Test Accuracy:", accuracy.item()*100, "%")
+torch.save(model.state_dict(), "mnist_model.pth")
