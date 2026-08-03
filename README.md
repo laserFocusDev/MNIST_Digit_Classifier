@@ -21,8 +21,7 @@ An interactive handwritten digit recognition web application built using **PyTor
 ## 🖼️ Demo
 
 ### Homepage
-
-> *(Add a screenshot here after uploading one.)*
+<img width="627" height="746" alt="image" src="https://github.com/user-attachments/assets/1a9720db-5c76-45fe-a7c7-cd13e61f6780" />
 
 ---
 
