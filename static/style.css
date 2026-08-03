@@ -1,0 +1,20 @@
+body{
+
+    background:#f4f6f9;
+}
+
+canvas{
+
+    border:3px solid #333;
+
+    background:white;
+
+    cursor:crosshair;
+}
+
+button{
+
+    width:140px;
+
+    margin:5px;
+}
